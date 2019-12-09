@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Rouen, France"
   date_start = "2017-09-01"
   date_end = ""
-  description = """Ph.D student on deep generative models"""
+  description = """Ph.D student on deep generative models. Multi-obective training of Generative Adversarial Nets. Applications to scientific data, most notably geostatistical data."""
 [[experience]]
   title = "Research Intern"
   company = "LITIS, Normandy University"
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   location = "Rouen, France"
   date_start = "2017-04-01"
   date_end = "2017-09-01"
-  description = """Developped an application for researchers on reversible computation models."""
+  description = """Deep Learning for offline handwritten text recognition on mobile devices with Convolutional LSTMs. Industrial partnership with Hamelin SAS for the Oxford brand. Development of a prototype recognition system with TensorFlow"""
 
 [[experience]]
   title = "Research Assistant"
@@ -41,6 +41,8 @@ date_format = "Jan 2006"
   location = "Orléans, France"
   date_start = "2015-04-01"
   date_end = "2015-07-01"
-  description = """Developped an application for researchers on reversible computation models."""
+  description = """Theoritical works on the SMART (Small Minimal Aperiodic Reversible
+Turing machine) computation model. Development of a cross-platform application for researchers for the visualisation of
+the SMART machine, with OpenFL."""
 
 +++

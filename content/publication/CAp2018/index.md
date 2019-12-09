@@ -21,7 +21,7 @@ publication_short: In CAP
 abstract:  Generative models have recently received renewed attention as a result of adversarial learning. Generative adversarial networks consist of samples generation model and a discrimination model able to distinguish between genuine and synthetic samples. In combination with convolutional (for the discriminator) and de-convolutional (for the generator) layers, they are particularly suitable for image generation, especially of natural scenes. However, the presence of fully connected layers adds global dependencies in the generated images. This may lead to high and global variations in the generated sample for small local variations in the input noise. In this work we propose to use architec-tures based on fully convolutional networks (including among others dilated layers), architectures specifically designed to generate globally ergodic images, that is images without global dependencies. Conducted experiments reveal that these architectures are well suited for generating natural textures such as geologic structures.
 
 # Summary. An optional shortened abstract.
-summary: We investigate adding  a  regularization  term to  the  conditioning  of  GANs  to  deal  with  cases  where  a  small  subset  of the  image  is  known  beforehand.
+summary: We have presented an architecture for globally ergodic data generation. We have shown that our method produces samples that are sharper and less noisy than the previous approaches, removing the need for ad-hoc solutions like median filters, without altering their quality.
 
 tags:
 - Source Themes

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Student in Artificial Intelligence
+role: Ph.D Student in Machine Learning
 
 # Organizations/Affiliations
 organizations:

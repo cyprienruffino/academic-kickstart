@@ -23,7 +23,7 @@ bio: My research interests are focused on deep generative models, especially on 
 interests:
 - Artificial Intelligence
 - Deep Generative Models
-- Machine Learning for Physical applications
+- Machine Learning for Physics
 
 education:
   courses:

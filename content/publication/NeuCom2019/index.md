@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-
+url_pdf: https://arxiv.org/pdf/2002.01281.pdf
 url_code: https://github.com/cyprienruffino/pixelwise
 url_dataset: ''
 url_poster: ''

@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   location = "Rouen, France"
   date_start = "2017-04-01"
   date_end = "2017-09-01"
-  description = """Deep Learning for offline handwritten text recognition on mobile devices with Convolutional LSTMs. Industrial partnership with Hamelin SAS for the Oxford brand. Development of a prototype recognition system with TensorFlow"""
+  description = """Deep Learning for offline handwritten text recognition on mobile devices with Convolutional LSTMs. Industrial partnership with Hamelin SAS for the Oxford brand of office supplies. Development of a prototype recognition system with TensorFlow"""
 
 [[experience]]
   title = "Research Assistant"

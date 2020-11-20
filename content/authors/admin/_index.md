@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ruffino.cyprien@gmail.com".
+  link: mailto:ruffino.cyprien@protonmail.com".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=uiGzyb0AAAAJ&hl=fr

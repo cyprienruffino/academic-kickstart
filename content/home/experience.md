@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.litislab.fr/"
   location = "Rouen, France"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2021-04-20"
   description = """Ph.D student on deep generative models. Multi-obective training of Generative Adversarial Nets. Applications to scientific data, most notably geostatistical data."""
 [[experience]]
   title = "Research Intern"

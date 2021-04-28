@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Student in Machine Learning
+role: Ph.D in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: INSA Rouen, Normandy University, France
-    year: 2020
+    year: 2021
   - course: MEng in Software Engineering (1st/43)
     institution: University of Orléans, France
     year: 2017
@@ -72,5 +72,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I am a third-year Ph. D student in the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. I am interested in deep
+ I did my PhD at the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. I am interested in deep
 learning and deep generative models, especially in the conditioning of generative adversarial networks.

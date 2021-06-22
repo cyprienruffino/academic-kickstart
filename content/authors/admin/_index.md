@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)04
-bio: My research interests are focused on deep generative models, especially on the conditioning of generative adversarial networks.
+bio: I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round.
 
 interests:
 - Deep learning
@@ -72,5 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I did my PhD at the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. I am interested in deep
-learning and deep generative models, especially in the conditioning of generative adversarial networks.
+ I did my PhD at the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. Before that, I did a Ms.C in software engineering, with a focus on intelligent mobile applications. I am interested in deep learning, most notably for autonomous driving.

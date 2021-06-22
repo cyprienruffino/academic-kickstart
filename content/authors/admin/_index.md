@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D in Machine Learning
+role: R&D Engineering in Machine Learning
 
 # Organizations/Affiliations
 organizations:
 - name: LITIS lab, INSA Rouen, Normandy University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)04
 bio: My research interests are focused on deep generative models, especially on the conditioning of generative adversarial networks.
 
 interests:
-- Artificial Intelligence
-- Deep Generative Models
-- Machine Learning for Physics
+- Deep learning
+- Autonomous driving
+- Machine learning software development
 
 education:
   courses:
@@ -59,9 +59,9 @@ social:
   link: https://www.linkedin.com/in/cyprien-ruffino/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

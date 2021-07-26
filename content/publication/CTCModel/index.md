@@ -1,8 +1,8 @@
 ---
 title: "CTCModel: Connectionist Temporal Classification in Keras"
 authors:
-- admin
 - Yann Soullard
+- admin
 - Thierry Paquet
 
 date: "2017-07-01T00:00:00Z"

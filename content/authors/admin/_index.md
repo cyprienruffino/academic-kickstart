@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: R&D Engineering in Machine Learning
+role: R&D Engineer working on Machine Learning
 
 # Organizations/Affiliations
 organizations:

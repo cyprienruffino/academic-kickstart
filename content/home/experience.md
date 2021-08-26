@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Rouen, France"
   date_start = "2021-06-01"
   date_end = ""
-  description = """R&D engineer, Research chairs RAIMo and ICUB for safety and security of autonomous driving systems. Industrial partnerships with Peugeot S.A. (STEREOLABS) and IRT SystemX."""
+  description = """R&D engineer, Research chairs RAIMo and ICUB for safety and security of autonomous driving systems. Industrial partnerships with Peugeot S.A. (Stellantis) and IRT SystemX."""
 [[experience]]
   title = "Ph.D Student"
   company = "INSA Rouen, LITIS, Normandy University"

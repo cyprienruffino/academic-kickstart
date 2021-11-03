@@ -14,5 +14,5 @@ subtitle = ""
     - Introduction to algorithmics
     - Introduction to programming in Pascal
 - **Applied statistics for data science**: 
-    - Statistical data analysis and visualisation, regressions, testing
+    - Statistics, data analysis and visualisation, regressions, dimensionality reduction, testing
     - Practical lessons and projects in numpy, matplotlib, pandas

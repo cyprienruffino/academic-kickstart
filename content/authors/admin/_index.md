@@ -72,4 +72,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I did my PhD at the LITIS Lab at INSA Rouen Normandy, under the supervision of Romain Hérault and the direction of Gilles Gasso. Before that, I did a Ms.C in software engineering, with a focus on intelligent mobile applications. I am interested in deep learning, most notably for autonomous driving.
+I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round. I am interested in deep learning, most notably for autonomous driving.

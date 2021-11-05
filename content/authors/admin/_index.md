@@ -30,7 +30,7 @@ education:
   - course: PhD in Artificial Intelligence
     institution: INSA Rouen, Normandy University, France
     year: 2021
-  - course: MEng in Software Engineering (1st/43)
+  - course: MSc in Software Engineering (1st/43)
     institution: University of Orléans, France
     year: 2017
   - course: BSc in Computer Science (2nd/64)

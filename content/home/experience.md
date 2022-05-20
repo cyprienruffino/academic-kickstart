@@ -19,11 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "R&D Engineer"
+  company = "Kinetix"
+  company_url = "https://www.kinetix.tech/"
+  location = "Paris, France"
+  date_start = "2022-05-04"
+  date_end = ""
+  description = """R&D engineer, Real-Time squad. Improving the wall-clock performance, progressively moving towards real-time. Faster algorithms, model pruning, knowledge distillation, MLOps, software optimization."""
+[[experience]]
+  title = "R&D Engineer"
   company = "LITIS, Normandy University"
   company_url = "https://www.litislab.fr/"
   location = "Rouen, France"
   date_start = "2021-06-01"
-  date_end = ""
+  date_end = "2022-04-01"
   description = """R&D engineer, Research chairs RAIMo and ICUB for safety and security of autonomous driving systems. Industrial partnerships with Peugeot S.A. (Stellantis) and IRT SystemX."""
 [[experience]]
   title = "Ph.D Student"

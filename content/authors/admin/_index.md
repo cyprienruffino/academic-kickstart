@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: R&D Engineer working on Machine Learning
+role:  Machine Learning R&D Engineer 
 
 # Organizations/Affiliations
 organizations:
-- name: LITIS lab, INSA Rouen, Normandy University
+- name: Kinetix
   url: ""
 
 # Short bio (displayed in user profile at end of posts)04
@@ -22,8 +22,8 @@ bio: I'm a software engineer that acts as a machine learning researcher. Or mayb
 
 interests:
 - Deep learning
-- Autonomous driving
 - Machine learning software development
+- MLOps
 
 education:
   courses:

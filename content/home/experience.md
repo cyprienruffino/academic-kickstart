@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Paris, France"
   date_start = "2022-05-04"
   date_end = ""
-  description = """R&D engineer, Real-Time squad. Improving the wall-clock performance, progressively moving towards real-time. Faster algorithms, model pruning, knowledge distillation, MLOps, software optimization."""
+  description = """R&D engineer in the Real-Time squad. Improving our systems' wall-clock performance and developing a real-time version of the motion capture pipeline. Faster algorithms, model pruning, knowledge distillation, cloud architecture, software optimization."""
 [[experience]]
   title = "R&D Engineer"
   company = "LITIS, Normandy University"

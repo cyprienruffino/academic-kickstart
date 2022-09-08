@@ -72,4 +72,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round. I am interested in deep learning, most notably for autonomous driving.
+I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round. I'm interested in deep learning and its applications, from research to production.
+ 

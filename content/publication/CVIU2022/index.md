@@ -9,7 +9,7 @@ authors:
 - Fabrice Mériaudeau
 - Stéphane Canu
 date: "2022-09-01T00:00:00Z"
-doi: "Physically-admissible polarimetric data augmentation for road-scene analysis"
+doi: https://doi.org/10.1016/j.cviu.2022.103495
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-01T00:00:00Z"

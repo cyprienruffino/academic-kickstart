@@ -3,7 +3,7 @@ title: "Gradient-based deterministic inversion of geophysical data with generati
 authors:
 - Eric Laloy
 - Niklas Linde
-- admin
+- Cyprien Ruffino
 - Romain Hérault
 - Gilles Gasso
 - Diederik Jacques

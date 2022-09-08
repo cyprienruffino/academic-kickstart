@@ -1,7 +1,7 @@
 ---
 title: "Pixel-wise Conditioning of Generative Adversarial Networks"
 authors:
-- admin
+- Cyprien Ruffino
 - Romain Hérault
 - Eric Laloy
 - Gilles Gasso

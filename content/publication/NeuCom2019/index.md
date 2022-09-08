@@ -1,7 +1,7 @@
 ---
 title: "Pixel-wise Conditioned Generative Adversarial Networks for Image Synthesis and Completion"
 authors:
-- admin
+- Cyprien Ruffino
 - Romain Hérault
 - Eric Laloy
 - Gilles Gasso

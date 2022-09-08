@@ -1,7 +1,7 @@
 ---
 title: "Physically-admissible polarimetric data augmentation for road-scene analysis"
 authors:
-- admin
+- Cyprien Ruffino
 - Rachel Blin
 - Samia Ainouz
 - Romain Hérault

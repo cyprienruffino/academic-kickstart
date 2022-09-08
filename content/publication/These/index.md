@@ -1,7 +1,7 @@
 ---
 title: "PhD Thesis: Auxiliary Tasks for the Conditioning of Generative Adversarial Networks"
 authors:
-- admin
+- Cyprien Ruffino
 
 date: "2021-04-20"
 #doi: "https://doi.org/10.1016/j.cageo.2019.104333"

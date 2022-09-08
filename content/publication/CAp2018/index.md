@@ -1,7 +1,7 @@
 ---
 title: "Dilated Spatial Generative Adversarial Networks for Ergodic Image Generation"
 authors:
-- admin
+- Cyprien Ruffino
 - Romain Hérault
 - Eric Laloy
 - Gilles Gasso

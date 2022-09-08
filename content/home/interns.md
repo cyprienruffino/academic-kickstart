@@ -14,7 +14,7 @@ subtitle = ""
   
   [INSA Rouen](https://www.insa-rouen.fr/), [LITIS lab](https://www.litislab.fr/), France
   
-  Developped a CycleGAN-like model for generating images under physical constraints. Work currently under review.
+  Developped a CycleGAN-like model for generating physically-realistic polarimetric images under optical constraints. Work eventually published in CVIU (2022)
 
 ## Conditional generative models for image generation under pixel-wise constraints
   ### [Lucas Anquetil](https://www.linkedin.com/in/lucas-anquetil-271491117), [Pierre Lopez](https://www.linkedin.com/in/pierre-lopez7)

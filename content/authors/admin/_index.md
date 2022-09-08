@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)04
-bio: I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round.
+bio: I'm a software engineer that acts as a machine learning researcher. Or maybe the other way round. I'm interested in deep learning and its applications, from research to production.
 
 interests:
 - Deep learning
 - Machine learning software development
-- MLOps
+- Cloud computing
 
 education:
   courses:
